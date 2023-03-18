@@ -1,0 +1,15 @@
+.searchMovie {
+  text-align: center;
+  padding: 20px;
+  font-size: 35px;
+}
+
+.searchMovie > h2 {
+  margin-top: 20px;
+  color: white;
+}
+
+.searchInput {
+  width: 400px;
+  margin-top: 30px;
+}

@@ -1,0 +1,17 @@
+.movieList {
+  width: 90vw;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.moviesFallback {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+}
